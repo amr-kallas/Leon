@@ -104,7 +104,7 @@ body{
 /* End Header */
 /* Start Landing */
 .Landing{
-    background-image: url(/img/download.jpg);
+    background-image: url(img/download.jpg);
     background-size: cover;
     height: calc(100vh - 85px);
     position: relative;
